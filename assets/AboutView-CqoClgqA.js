@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as s}from"./index-CAc3IBiG.js";const a={},c={class:"about"},n=s("h1",null,"This is an about page and will be updated",-1),_=[n];function r(d,i){return t(),o("div",c,_)}const u=e(a,[["render",r]]);export{u as default};
